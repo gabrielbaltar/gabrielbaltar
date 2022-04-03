@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielbaltar&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielbaltar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gabrielbaltarr" target="blank"><img src="https://img.shields.io/twitter/follow/@_gabrielbaltarr?logo=twitter&style=for-the-badge" alt="@_gabrielbaltarr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_gabrielbaltarr" target="blank"><img src="https://img.shields.io/twitter/follow/@_gabrielbaltarr?logo=twitter&style=for-the-badge" alt="@_gabrielbaltarr" /></a> </p>
 
-- 🔭 I’m currently working on [Bikcraft](https://github.com/gabrielbaltar/bikeeletrica/settings/pages)
+- 🔭 I’m currently working on [Bikcraft](https://gabrielbaltar.github.io/bikeeletrica/)
 
 - 🌱 I’m currently learning **HTML 5, CSS3, JavaScript, ReactJS adn NodeJS**
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@_gabrielbaltarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_gabrielbaltarr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-baltar-pereira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-baltar-pereira/" height="30" width="40" /></a>
+<a href="https://twitter.com/_gabrielbaltarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_gabrielbaltarr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-baltar-pereira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-baltar-pereira/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/gbbaltar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gbbaltar/" height="30" width="40" /></a>
 <a href="https://discord.gg/#0602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0602" height="30" width="40" /></a>
 </p>
