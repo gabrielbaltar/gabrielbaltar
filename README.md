@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielbaltar&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielbaltar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@_gabrielbaltarr" target="blank"><img src="https://img.shields.io/twitter/follow/@_gabrielbaltarr?logo=twitter&style=for-the-badge" alt="@_gabrielbaltarr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gabrielbaltarr" target="blank"><img src="https://img.shields.io/twitter/follow/@_gabrielbaltarr?logo=twitter&style=for-the-badge" alt="@_gabrielbaltarr" /></a> </p>
 
 - 🔭 I’m currently working on [Bikcraft](https://github.com/gabrielbaltar/bikeeletrica/settings/pages)
 
