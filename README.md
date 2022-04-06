@@ -5,7 +5,7 @@
 
 <br><br>
 
-- 🔭 I’m currently working on [Bikcraft](https://gabrielbaltar.github.io/bikeeletrica/)
+- 🔭 I’m currently working on [Bikcraft](https://gabrielbaltar.github.io/bikeeletrica/ target="blank")
 
 - 🌱 I’m currently learning **HTML 5, CSS3, JavaScript, ReactJS adn NodeJS**
 
