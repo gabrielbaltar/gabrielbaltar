@@ -5,11 +5,11 @@
 
 <br><br>
 
-- 🔭 I’m currently working on [Rocket.Q](https://github.com/gabrielbaltar/rocketq.com/)
+- 🔭 Atualmente estou trabalhando no projeto [Rocket.Q](https://github.com/gabrielbaltar/rocketq.com/)
 
-- 🌱 I’m currently learning **HTML 5, CSS3, JavaScript, ReactJS adn NodeJS**
+- 🌱 Estou estudando **HTML 5, CSS3, JavaScript, ReactJS adn NodeJS**
 
-- 📫 How to reach me: <a type="email" href="mailto:gabriel.baltar21@hotmail.com">gabriel.baltar21@hotmail.com</a>
+- 📫 Meu e-mail: <a type="email" href="mailto:gabriel.baltar21@hotmail.com">gabriel.baltar21@hotmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
