@@ -1,4 +1,4 @@
-# Gabriel Baltar 😎
+# Gabriel Baltar 🤙
 
 <p>Sou UI Designer e programador Front-end com em média 1 ano de experiência com essas tecnologias: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Git e GitHub e outras ferramentas.
 
