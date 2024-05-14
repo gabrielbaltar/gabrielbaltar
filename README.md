@@ -6,7 +6,7 @@
 
 ##
 
-<p>🇧🇷 Sou UI Designer e programador Front-end com 1 ano de experiência com: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Git e GitHub e outras ferramentas.
+<p>🇧🇷 Sou desenvolvedor Front-end e UI Designer com 1 ano de experiência com: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Git e GitHub e outras ferramentas.
 
 Atualmente trabalho como UI Designer e pratico programação com projetos práticos.</p>
 
