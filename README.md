@@ -10,7 +10,7 @@
 
 Atualmente trabalho como UI Designer e pratico programação com projetos práticos.</p>
 
-<p>Você pode acessar meus projetos pelo github ou pelo meu portfólio: [![My Portfólio](https://www.gabrielbaltar.com.br/)](www.gabrielbaltar.com.br){:target="_blank"}
+<p>Você pode acessar meus projetos pelo github ou pelo meu portfólio: <a>[![Nome do Botão](URL da Imagem do Botão)](URL do Link Externo){:target="_blank"} </a>
  </p>
 
 
