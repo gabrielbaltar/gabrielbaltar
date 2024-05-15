@@ -6,7 +6,7 @@
 
 ## 
 
-You can access my projects on GitHub or my portfolio: <a href="URL_DO_SEU_PORTFÓLIO" style="text-decoration: none;">My portfolio</a>
+<p>You can access my projects on GitHub or my portfolio: <a href="URL_DO_SEU_PORTFÓLIO" style="text-decoration: none;">My portfolio</a></p>
 
 
 
