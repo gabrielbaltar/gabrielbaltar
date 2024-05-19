@@ -6,11 +6,12 @@
 
 ##
 
-![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
+Aqui estão algumas das tecnologias que eu uso em meus projetos:
+
+![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbaltar)](https://github.com/gabrielbaltar/github-readme-stats)-->
-
-
-<img src="https://img.shields.io/badge/Codeship-004466?style=for-the-badge&logo=Codeship&logoColor=white" /> 
-
-<img src="https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white" /> 
