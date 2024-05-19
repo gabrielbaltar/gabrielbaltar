@@ -6,7 +6,7 @@
 
 ##
 
-Aqui estão algumas das tecnologias que eu uso em meus projetos:
+Here are some of the technologies I use in my projects:
 
 ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
