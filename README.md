@@ -11,3 +11,6 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbaltar)](https://github.com/gabrielbaltar/github-readme-stats)-->
 
 
+<img src="https://img.shields.io/badge/Codeship-004466?style=for-the-badge&logo=Codeship&logoColor=white" /> 
+
+<img src="https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white" /> 
