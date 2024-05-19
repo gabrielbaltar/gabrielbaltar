@@ -6,7 +6,7 @@
 
 ##
 
-<img src="{[BadgeURLHere](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)}" />
+![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbaltar)](https://github.com/gabrielbaltar/github-readme-stats)-->
 
