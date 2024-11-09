@@ -18,4 +18,4 @@ Here are some of the technologies I use in my projects:
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbaltar)](https://github.com/gabrielbaltar/github-readme-stats)
+<--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbaltar)](https://github.com/gabrielbaltar/github-readme-stats)-->
